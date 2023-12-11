@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://cdn.wallpapersafari.com/47/85/zvJE8k.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    border: 2px solid black;
+    padding: 2px;
+    width: 50%;
+    size: 50%;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    border: 2px solid black;
+    padding: 2px;
+}
+ol{
+    background-color: grey;
+}
+.common{
+    position: absolute;
+}
+.footer{
+    position: fixed;
+    z-index: 1;
+    bottom: 0px;
+    display: block;
+    text-align: left;
+    background-color: grey;
+}
+.header{
+    top: 0px;
+    margin-left: auto;
+}
+.mainbody{
+    top: 300px;
+}
